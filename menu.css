@@ -6,3 +6,7 @@ body {
     background-color: cadetblue;
     
 }
+
+.faixa {
+    border: 5px dotted black;
+}
