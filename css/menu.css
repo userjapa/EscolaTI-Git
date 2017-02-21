@@ -6,6 +6,10 @@ body {
     
 }
 
+.main {
+    font-size: 200%;
+}
+
 .faixa {
     border: 5px dotted black;
 }
