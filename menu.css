@@ -11,7 +11,7 @@ h1.main {
 
 div.menu {
     margin: auto;
-    border: 2px dotted black;
+    border: 2px solid blue;
     padding: none;
     width: 100%;
 }
