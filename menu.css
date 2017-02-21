@@ -5,21 +5,11 @@ body {
     background-color: cadetblue;
 }
 
-h1.main {
+.main {
     font-size: 200%;
 }
 
-div.menu {
-    margin: auto;
-    border: 2px solid blue;
-    padding: none;
-    width: 100%;
-}
-
-div.min {
-    margin: auto;
-    border: none;
-    padding: 5px;
-    height: 50px;
-    float: inherit;
+.logo {
+    border: 5px dotted black;
+    
 }
