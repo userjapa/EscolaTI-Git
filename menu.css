@@ -3,13 +3,14 @@ body {
     font-family: arial;
     color: black;
     background-color: cadetblue;
+    
 }
 
+<<<<<<< HEAD
 .main {
     font-size: 200%;
 }
 
-.logo {
+.faixa {
     border: 5px dotted black;
-    
 }
